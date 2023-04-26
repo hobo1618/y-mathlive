@@ -1,4 +1,4 @@
-# This is a fork of the amazing mathlive(https://github.com/arnog/mathlive) web component. I am trying to implement Yjs to make the web component collaborative, but I will probably fail miserably, so don't use this repo for anything at all. Here is the README from the OG mathlive repo:
+# This is a fork of the amazing (mathlive)[https://github.com/arnog/mathlive] web component. I am trying to implement Yjs to make the web component collaborative, but I will probably fail miserably, so don't use this repo for anything at all. Here is the README from the OG mathlive repo:
 
 <div align="center">
     <img alt="math live" src="assets/mathlive-1.png?raw=true">
